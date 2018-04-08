@@ -5,6 +5,7 @@ public class Test {
         sadasd
         你好
         hello world!
+        sadhkasd
 sadasdasd
     }
 }
