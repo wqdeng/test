@@ -3,6 +3,7 @@ public class Test {
         System.out.println("test git");
         test diff
         sadasd
+        你好
         hello world!
     }
 }
