@@ -6,7 +6,6 @@ public class Test {
         你好
         hello world!
         sadhkasd
-sada
             asdhkasjdhkashdajkshdkashdkajshdkjashdkajshdkashdk
             sadasd
     }
