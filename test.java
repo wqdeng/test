@@ -3,7 +3,7 @@ public class Test {
         System.out.println("test git");
         test diff
         sadasd
-        你好
+        你好你好
         hello world!
         sadhkasd
             asdhkasjdhkashdajkshdkashdkajshdkjashdkajshdkashdk
