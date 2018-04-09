@@ -8,5 +8,6 @@ public class Test {
         sadhkasd
 sada
             asdhkasjdhkashdajkshdkashdkajshdkjashdkajshdkashdk
+            sadasd
     }
 }
