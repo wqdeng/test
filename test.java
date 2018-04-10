@@ -9,6 +9,8 @@ public class Test {
             asdhkasjdhkashdajkshdkashdkajshdkjashdkajshdkashdk
             sadasd
 asdasdasdasdasd
-sadasdasda
+System.out.println("test");
+System.out.println("test");
+System.out.println("test");
     }
 }
