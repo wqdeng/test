@@ -10,7 +10,7 @@ public class Test {
             sadasd
 asdasdasdasdasd
 System.out.println("test");
-System.out.println("test");
+System.out.println("hello test");
 System.out.println("test");
     }
 }
